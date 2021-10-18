@@ -1,3 +1,3 @@
 # BMI Calculator
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+![Finished App](https://github.com/itayxsagiv/bmi-calculator-flutter/blob/main/demo.gif)
